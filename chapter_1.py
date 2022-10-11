@@ -31,3 +31,5 @@
 #Exercise 9 How do you fix a ”Syntax Error”?
 #   Python can only execute the program only if the program contains a line - command line with the correct syntax. If the program - the program there is a syntax error then the process will stop and display the message - the error message, which became known as syntax errors. Syntax refers to a program structure and rules - rules that play a role in the structure. For example, in the Indonesian language, a sentence should begin with capital letters and end with a dot (.), The sentence will have a syntax error when writing the sentence does not comply with the applicable rules. This is also true in the language
 #computer programming.
+
+#ex
